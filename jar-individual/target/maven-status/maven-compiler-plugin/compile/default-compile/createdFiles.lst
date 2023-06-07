@@ -1,0 +1,13 @@
+sql\Componente.class
+executavel\ExecutavelEasy.class
+sql\ConexaoAzure.class
+executavel\ExecutavelEasy$1.class
+mod\ConversorBytes.class
+sql\Sql.class
+api\LoocaApi.class
+sql\MySql.class
+sql\GestaoAcesso.class
+sql\GestaoAcessoRowMapper.class
+sql\ComponenteRowMapper.class
+sql\ConexaoMySql.class
+mod\Util.class
